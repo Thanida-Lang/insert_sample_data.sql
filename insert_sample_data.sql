@@ -1,4 +1,4 @@
-### Einfügen von CustomersDaten 
+### Einfügen von KundensDaten 
 INSERT INTO customers (customer_name, risk_score, city)
 VALUES 
 ('Somchai S.', 0.85, 'Munich'),
